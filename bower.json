@@ -1,0 +1,14 @@
+{
+  "name": "weibo-backup-crx",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.0.0"
+  }
+}

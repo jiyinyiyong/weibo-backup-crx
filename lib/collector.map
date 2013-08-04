@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "collector.js",
+  "sourceRoot": "..",
+  "sources": [
+    "coffee/collector.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA,IAAA,MAAA;;AAAA,CAAA,CAAA,CAAa,OAAb;;AAEA,CAFA,CAEiD,CAAV,GAAjC,CAAiC,EAAvB,EAAhB,CAAuC;CACrC,CAAA,EAAA,GAAuB,GAAb,SAAM;CAAhB,CAEA,CAAA,GAAA,CAAO,GAAe;CACT,QAAb,GAAA;CAAa,CAAM,CAAL,CAAA,IAAD;CAJwB,GAIrC;CAJqC"
+}
