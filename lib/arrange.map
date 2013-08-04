@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "arrange.js",
+  "sourceRoot": "..",
+  "sources": [
+    "coffee/arrange.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA,IAAA,QAAA;;AAAA,CAAA,EAAO,CAAP,KAAQ;CAAO,EAAU,CAAV,KAAA,EAAA;CAAR;;AAEP,CAFA,EAES,CAAA,EAAT,GAAU;CAGE,EAAL,CAAI,CAGM,CAAV,GALJ,+BAAA,CAAA,QAAA;CADM;;AAaT,CAfA,CAewC,CAAA,CAAA,GAAxC,EAAyC,mBAAzC;CACE,CAAiB,CAAA,CAAjB,EAAiB,EAAjB,CAAA;CADsC"
+}
